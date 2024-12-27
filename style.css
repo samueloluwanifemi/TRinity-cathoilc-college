@@ -1,0 +1,32 @@
+header{
+  padding-bottom: 20px;
+  color: white;
+  background-color: brown;
+  padding-top: 20px;
+}
+img{
+  padding-top: 15px;
+}
+section{
+  background-color: green;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+div{
+  background-color: blue;
+  color: white;
+  padding-top: 15px;
+}
+footer{
+  background-color:  black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+tcc{
+  background-color: coral;
+  color: white;
+  
+}
